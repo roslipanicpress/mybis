@@ -1,4 +1,4 @@
-<style>
+
         body {
             font-family: 'Lexend', sans-serif;
             /* Update to Lexend */
@@ -271,9 +271,9 @@
             color: black;
             text-decoration: underline;
         }
-    </style>
+    
 
-    <style>
+    
         .g-blue {
             color: #4285F4;
         }
@@ -334,9 +334,9 @@
         .biodiversity-title:hover .butterfly-orange {
             transform: translateY(-10px);
         }
-    </style>
+    
 
-    <style>
+    
         #mySidenav a {
             position: absolute;
             margin-top: 75px;
@@ -414,8 +414,8 @@
         .img-fluid {
             max-width: 539px;
         }
-    </style>
-    <style>
+    
+    
         .search-container {
             margin-top: 10%;
             text-align: center;
@@ -535,4 +535,4 @@
                 background-color: #f1f3f4;
             }
         }
-    </style>
+    
